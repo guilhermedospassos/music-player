@@ -1,4 +1,4 @@
-# music-player
+# Projeto Music Player
  Uma playlist criada em HTML, CSS e JavaScript baseada no design do Spotify.
 
 # Funcionalidades do projeto:
