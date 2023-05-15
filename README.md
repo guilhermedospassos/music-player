@@ -3,11 +3,11 @@
 
 # Funcionalidades do projeto:
 
-> Função play/pause.
+> Função play/pause:
 
 ![play-pause](https://github.com/guilhermedospassos/music-player/assets/129219826/35a35860-b332-40a9-a8e2-d43c037718b6)
 
-> Função pular e voltar.
+> Função pular e voltar:
 
 ![next-previous](https://github.com/guilhermedospassos/music-player/assets/129219826/2d2ef602-9440-45a1-b1c7-4c67efe7e827)
 
