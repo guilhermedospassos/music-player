@@ -98,3 +98,15 @@ button {
     margin-top: 0.5em;
     color: rgb(170, 184, 187);
 }
+
+@media (max-width: 500px) {
+  #playlist-title {
+    margin-top: 30px;
+  }
+  #cover {
+    box-sizing: border-box;
+    max-width: 320px;
+    margin-top: 60px;
+    margin-bottom: 60px;
+  }
+}
