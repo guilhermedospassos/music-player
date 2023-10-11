@@ -100,13 +100,22 @@ button {
 }
 
 @media (max-width: 500px) {
+  html,
+  body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+  }
   #playlist-title {
-    margin-top: 30px;
+    margin: 1.2em 0 2em 0;
+  }
+  #song-name {
+    font-size: 1rem;
+  }
+  #band-name {
+    font-size: 0.8rem;
   }
   #cover {
-    box-sizing: border-box;
     max-width: 320px;
-    margin-top: 60px;
-    margin-bottom: 60px;
   }
 }
